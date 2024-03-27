@@ -12,7 +12,7 @@ title                    : "Klara Gawor / PhD Candidate"
 title_separator          : "-"
 name                     : &name "Klara Gawor"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # this should stay
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,51 +24,25 @@ author:
   avatar           : "profile.png"
   name             : "Klara Gawor"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Neuroscientist with training in pathology of neurodegenerative disease"
   location         : "Leuven, Belgium"
   employer         : "KU Leuven"
   uri              : # URL
   email            : "klara.gawor@kuleuven.be" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=nMXvPvEAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0001-7571-5420"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=klara+gawor"
   researchgate     : # URL
+  arxiv            : # URL - Update with the correct link to your profile
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
   github           : # Username
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : "UniofOxford"  # Replace this with your X / Twitter handle
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
-
+  twitter          : # Username
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
