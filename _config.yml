@@ -22,7 +22,7 @@ repository               : "klar-cloud/klaragawor.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Klara Gawor"
   pronouns         : # example: "she/her"  
   bio              : "Neuroscientist with training in pathology of neurodegenerative disease"
@@ -43,7 +43,7 @@ author:
 
   # Social media
   linkedin         : # Username
-  twitter          : # @KlaraGawor
+  twitter          : # KlaraGawor
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
